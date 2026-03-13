@@ -1,4 +1,4 @@
-# HO-Kit 桌面客户端（新版本测试中）
+# HO-Kit 桌面客户端
 
 ![GitHub stars](https://img.shields.io/github/stars/yabi-zzh/HarmonyScrcpy?style=social)
 ![GitHub downloads](https://img.shields.io/github/downloads/yabi-zzh/HarmonyScrcpy/total)
