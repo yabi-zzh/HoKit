@@ -1,8 +1,8 @@
-# HO-Kit 桌面客户端
+# HOKit 桌面客户端
 
-![GitHub stars](https://img.shields.io/github/stars/yabi-zzh/HarmonyScrcpy?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/yabi-zzh/HarmonyScrcpy/total)
-![GitHub release](https://img.shields.io/github/v/release/yabi-zzh/HarmonyScrcpy)
+![GitHub stars](https://img.shields.io/github/stars/yabi-zzh/HoKit?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/yabi-zzh/HoKit/total)
+![GitHub release](https://img.shields.io/github/v/release/yabi-zzh/HoKit)
 
 > 一站式 HarmonyOS NEXT 应用开发辅助工具：低延迟投屏、实时性能监控、一键重签名、文件管理等
 
@@ -24,7 +24,7 @@
 
 ## 下载安装
 
-前往 [Releases](https://github.com/yabi-zzh/HarmonyScrcpy/releases) 页面下载：
+前往 [Releases](https://github.com/yabi-zzh/HoKit/releases) 页面下载：
 
 | 操作系统 | 安装包 | 说明 |
 |---------|--------|------|
@@ -34,7 +34,7 @@
 
 > **macOS 用户注意**：首次打开如提示"应用已损坏"或"无法验证开发者"，请在终端执行：
 > ```bash
-> sudo xattr -rd com.apple.quarantine /Applications/HO-Kit.app
+> sudo xattr -rd com.apple.quarantine /Applications/HoKit.app
 > ```
 
 ### 环境要求
@@ -324,7 +324,7 @@
 
 如果你在使用过程中遇到问题或有功能建议，欢迎提交 Issue。
 
-**提交地址**：[GitHub Issues](https://github.com/yabi-zzh/HarmonyScrcpy/issues)
+**提交地址**：[GitHub Issues](https://github.com/yabi-zzh/HoKit/issues)
 
 ### Issue 提交建议
 
@@ -338,22 +338,6 @@
 
 ---
 
-## 技术栈
-
-| 技术 | 版本 | 说明 |
-|------|------|------|
-| Electron | 34.x | 跨平台桌面应用框架 |
-| Vue 3 | 3.5.x | 渲染进程前端框架 |
-| TypeScript | 5.x | 类型安全 |
-| Naive UI | 2.40.x | Vue 3 组件库 |
-| Vite | 7.x | 前端构建工具 |
-| Pinia | 2.x | 状态管理 |
-| gRPC | - | H.264 投屏数据传输 |
-| WebCodecs | - | 视频硬件解码 |
-| ECharts | - | 性能监控图表 |
-
----
-
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yabi-zzh/HarmonyScrcpy&type=Date)](https://star-history.com/#yabi-zzh/HarmonyScrcpy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yabi-zzh/HoKit&type=Date)](https://star-history.com/#yabi-zzh/HoKit&Date)
